@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="isbn:978-93-82454-23-6"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="60"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+<text>Hulgul ka Pitara: Aadha Ojha Raja Aadha</text>
+</docTitle>
+<navMap>
+<navPoint id="frontcover" playOrder="1"><navLabel><text>Frontcover</text></navLabel><content src="01_frontcover.xhtml"/></navPoint>
+<navPoint id="pg02" playOrder="2"><navLabel><text>Page 2</text></navLabel><content src="02_pg02.xhtml"/></navPoint>
+<navPoint id="pg03" playOrder="3"><navLabel><text>Page 3</text></navLabel><content src="03_pg03.xhtml"/></navPoint>
+<navPoint id="pg04" playOrder="4"><navLabel><text>Page 4</text></navLabel><content src="04_pg04.xhtml"/></navPoint>
+<navPoint id="pg05" playOrder="5"><navLabel><text>Page 5</text></navLabel><content src="05_pg05.xhtml"/></navPoint>
+<navPoint id="pg06" playOrder="6"><navLabel><text>Page 6</text></navLabel><content src="06_pg06.xhtml"/></navPoint>
+<navPoint id="pg07" playOrder="7"><navLabel><text>Page 7</text></navLabel><content src="07_pg07.xhtml"/></navPoint>
+<navPoint id="pg08" playOrder="8"><navLabel><text>Page 8</text></navLabel><content src="08_pg08.xhtml"/></navPoint>
+<navPoint id="pg09" playOrder="9"><navLabel><text>Page 9</text></navLabel><content src="09_pg09.xhtml"/></navPoint>
+<navPoint id="pg10" playOrder="10"><navLabel><text>Page 10</text></navLabel><content src="10_pg10.xhtml"/></navPoint>
+<navPoint id="pg11" playOrder="11"><navLabel><text>Page 11</text></navLabel><content src="11_pg11.xhtml"/></navPoint>
+<navPoint id="pg12" playOrder="12"><navLabel><text>Page 12</text></navLabel><content src="12_pg12.xhtml"/></navPoint>
+<navPoint id="pg13" playOrder="13"><navLabel><text>Page 13</text></navLabel><content src="13_pg13.xhtml"/></navPoint>
+<navPoint id="pg14" playOrder="14"><navLabel><text>Page 14</text></navLabel><content src="14_pg14.xhtml"/></navPoint>
+<navPoint id="pg15" playOrder="15"><navLabel><text>Page 15</text></navLabel><content src="15_pg15.xhtml"/></navPoint>
+<navPoint id="pg16" playOrder="16"><navLabel><text>Page 16</text></navLabel><content src="16_pg16.xhtml"/></navPoint>
+<navPoint id="pg17" playOrder="17"><navLabel><text>Page 17</text></navLabel><content src="17_pg17.xhtml"/></navPoint>
+<navPoint id="pg18" playOrder="18"><navLabel><text>Page 18</text></navLabel><content src="18_pg18.xhtml"/></navPoint>
+<navPoint id="pg19" playOrder="19"><navLabel><text>Activities 1</text></navLabel><content src="19_pg19.xhtml"/></navPoint>
+<!--<navPoint id="pg19" playOrder="20"><navLabel><text>Activities 2</text></navLabel><content src="19_pg19a.xhtml"/></navPoint>
+<navPoint id="pg19" playOrder="21"><navLabel><text>Activities 3</text></navLabel><content src="19_pg19b.xhtml"/></navPoint>
+<navPoint id="pg19" playOrder="22"><navLabel><text>Activities 4</text></navLabel><content src="19_pg19c.xhtml"/></navPoint>
+<navPoint id="pg20" playOrder="23"><navLabel><text>Activities 5</text></navLabel><content src="20_pg20.xhtml"/></navPoint>
+<navPoint id="pg20" playOrder="24"><navLabel><text>Activities 6</text></navLabel><content src="20_pg20a.xhtml"/></navPoint>
+<navPoint id="pg20" playOrder="25"><navLabel><text>Activities 7</text></navLabel><content src="20_pg20b.xhtml"/></navPoint>
+<navPoint id="pg20" playOrder="26"><navLabel><text>Activities 8</text></navLabel><content src="20_pg20c.xhtml"/></navPoint>
+<navPoint id="pg21" playOrder="27"><navLabel><text>Card Game</text></navLabel><content src="21_pg21.xhtml"/></navPoint>
+<navPoint id="pg22" playOrder="28"><navLabel><text>Activity 10: Story Sequence</text></navLabel><content src="22_pg22.xhtml"/></navPoint>-->
+<navPoint id="pg23" playOrder="20"><navLabel><text>Page 23</text></navLabel><content src="23_pg23.xhtml"/></navPoint>
+</navMap>
+</ncx>

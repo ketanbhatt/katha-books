@@ -1,0 +1,28 @@
+element.style {
+    width: 73px;
+    height: 73px;
+    opacity: 1;
+    transform: translate3d(66px, 216px, 0px);
+    transition-duration: 2.6451s;
+}
+.thing {
+    transition-property: transform;
+    transition-timing-function: ease-in-out;
+    position: absolute;
+    opacity: 1;
+}
+
+/*=========bird-Flying=========*/
+div.bird {width: 494px; height: 321px;
+  background-image: url(images/birds.png);
+  animation: gangham 4s steps(4,start) infinite,
+  animation-direction: normal, alternate;
+}
+@keyframes gangham {
+  0% {background-position: 0 0}
+  100% {background-position: -5175px 0}
+}
+@keyframes movearound {
+  0% {transform: translatex(0)}
+  100% {transform: translatex(600px);}
+}

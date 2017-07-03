@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p9789382454236">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="p9789382454236">urn:isbn:p9789382454236</dc:identifier>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Hulgul ka Pitara: Aadha Ojha Raja Aadha</dc:title>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2017</dc:date>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright © 2017</dc:rights>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Katha</dc:publisher>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geeta Dharmarajan</dc:creator>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+    <meta name="cover" content="cover-image"/>	
+    </metadata>
+<manifest xmlns="http://www.idpf.org/2007/opf">
+     <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+     <item xmlns="http://www.idpf.org/2007/opf"  media-type="text/css" id="css" href="katha.css"/>
+     <item xmlns="http://www.idpf.org/2007/opf"  media-type="text/css" id="css1" href="css/animation.css"/>
+     <item xmlns="http://www.idpf.org/2007/opf"  media-type="text/css" id="css2" href="css/igp-widget-world.css"/>	
+
+   <item id="frontcover" href="01_frontcover.xhtml" media-type="application/xhtml+xml"/>
+   <item id="pg02" href="02_pg02.xhtml" media-type="application/xhtml+xml"/>
+   <item id="pg03" href="03_pg03.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+   <item id="pg04" href="04_pg04.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg05" href="05_pg05.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg06" href="06_pg06.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg07" href="07_pg07.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg08" href="08_pg08.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg09" href="09_pg09.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg10" href="10_pg10.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg11" href="11_pg11.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg12" href="12_pg12.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg13" href="13_pg13.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg14" href="14_pg14.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg15" href="15_pg15.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg16" href="16_pg16.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg17" href="17_pg17.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg18" href="18_pg18.xhtml" media-type="application/xhtml+xml" media-overlay="mop3"/>
+	 <item id="pg19" href="19_pg19_act1.xhtml" media-type="application/xhtml+xml"/>
+<!--	 <item id="pg19a" href="19_pg19a.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg19b" href="19_pg19b.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg19c" href="19_pg19c.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg20" href="20_pg20.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg20a" href="20_pg20a.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg20b" href="20_pg20b.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg20c" href="20_pg20c.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg21" href="21_pg21.xhtml" media-type="application/xhtml+xml"/>
+	 <item id="pg22" href="22_pg22.xhtml" media-type="application/xhtml+xml"/>-->
+	 <item id="pg23" href="23_pg23.xhtml" media-type="application/xhtml+xml"/>
+
+<item id="j1" href="js/aie_core.js" media-type="text/javascript" />
+<item id="j2" href="js/aie_events.js" media-type="text/javascript" />
+<item id="j3" href="js/aie_explore.js" media-type="text/javascript" />
+<item id="j4" href="js/aie_gameutils.js" media-type="text/javascript" />
+<item id="j5" href="js/aie_qaa.js" media-type="text/javascript" />
+<item id="j6" href="js/aie_storyline.js" media-type="text/javascript" />
+<item id="j7" href="js/aie_textsound.js" media-type="text/javascript" />
+<item id="j8" href="js/animation.js" media-type="text/javascript" />
+<item id="j9" href="js/igp_audio.js" media-type="text/javascript" />
+<item id="j10" href="js/iscroll.js" media-type="text/javascript" />
+<item id="j11" href="js/jquery-ui.min.js" media-type="text/javascript" />
+<item id="j12" href="js/jquery.min.js" media-type="text/javascript" />
+<item id="j13" href="js/LAB.min.js" media-type="text/javascript" />
+<item id="j14" href="js/panelnav.js" media-type="text/javascript" />
+<item id="j15" href="js/popup.js" media-type="text/javascript" />
+<item id="j16" href="js/prefixfree.js" media-type="text/javascript" />
+<item id="j17" href="js/pubsub.js" media-type="text/javascript" />
+<item id="j18" href="js/on-off.js" media-type="text/javascript" />
+<item id="j19" href="js/demo.js" media-type="text/javascript" />
+
+
+<item id="cover-image" href="images/img1.jpg" media-type="image/jpeg"/>
+<item id="copyright" href="images/copyright.png" media-type="image/png"/>
+<item id="Aage" href="images/Aage.png" media-type="image/png"/>
+<item id="ab" href="images/ab.png" media-type="image/png"/>
+<item id="activities" href="images/activities.png" media-type="image/png"/>
+<item id="Anek" href="images/Anek.png" media-type="image/png"/>
+<item id="ao" href="images/ao.png" media-type="image/png"/>
+<item id="aoar" href="images/aoar.gif" media-type="image/gif"/>
+<item id="Baal" href="images/Baal.png" media-type="image/png"/>
+<item id="bachhe7_1" href="images/bachhe7_1.png" media-type="image/png"/>
+<item id="Badi" href="images/Badi.png" media-type="image/png"/>
+<item id="bhoora" href="images/bhoora.png" media-type="image/png"/>
+<item id="Bola" href="images/Bola.png" media-type="image/png"/>
+<item id="Chaal" href="images/Chaal.png" media-type="image/png"/>
+<item id="Chakla" href="images/Chakla.png" media-type="image/png"/>
+<item id="copyright" href="images/copyright.png" media-type="image/png"/>
+<item id="Dayen" href="images/Dayen.png" media-type="image/png"/>
+<item id="Dekh" href="images/Dekh.png" media-type="image/png"/>
+<item id="Ghadi" href="images/Ghadi.png" media-type="image/png"/>
+<item id="golgappa" href="images/golgappa.jpg" media-type="image/jpg"/>
+<item id="golgappa" href="images/golgappa.png" media-type="image/png"/>
+<item id="gubbara" href="images/gubbara.jpg" media-type="image/jpg"/>
+<item id="gubbara" href="images/gubbara.png" media-type="image/png"/>
+<item id="guess" href="images/guess.jpg" media-type="image/jpg"/>
+<item id="img1" href="images/img1.jpg" media-type="image/jpg"/>
+<item id="img10" href="images/img10.gif" media-type="image/gif"/>
+<item id="img11" href="images/img11.gif" media-type="image/gif"/>
+<item id="img12" href="images/img12.gif" media-type="image/gif"/>
+<item id="img13" href="images/img13.gif" media-type="image/gif"/>
+<item id="img14" href="images/img14.gif" media-type="image/gif"/>
+<item id="img15" href="images/img15.gif" media-type="image/gif"/>
+<item id="img16" href="images/img16.gif" media-type="image/gif"/>
+<item id="img17" href="images/img17.gif" media-type="image/gif"/>
+<item id="img18" href="images/img18.gif" media-type="image/gif"/>
+<item id="img19" href="images/img19.jpg" media-type="image/jpg"/>
+<item id="img2" href="images/img2.gif" media-type="image/gif"/>
+<item id="img3" href="images/img3.gif" media-type="image/gif"/>
+<item id="img4" href="images/img4.gif" media-type="image/gif"/>
+<item id="img5" href="images/img5.gif" media-type="image/gif"/>
+<item id="img6" href="images/img6.gif" media-type="image/gif"/>
+<item id="img7" href="images/img7.gif" media-type="image/gif"/>
+<item id="img8" href="images/img8.gif" media-type="image/gif"/>
+<item id="img9" href="images/img9.gif" media-type="image/gif"/>
+<item id="information" href="images/information.jpg" media-type="image/jpg"/>
+<item id="information" href="images/information.png" media-type="image/png"/>
+<item id="Jaage" href="images/Jaage.png" media-type="image/png"/>
+<item id="jhola" href="images/jhola.jpg" media-type="image/jpg"/>
+<item id="jhola" href="images/jhola.png" media-type="image/png"/>
+<item id="jhola1" href="images/jhola1.jpg" media-type="image/jpg"/>
+<item id="jhola1" href="images/jhola1.png" media-type="image/png"/>
+<item id="Jhola2" href="images/Jhola2.png" media-type="image/png"/>
+<item id="jhola7_1" href="images/jhola7_1.png" media-type="image/png"/>
+<item id="Kab" href="images/Kab.png" media-type="image/png"/>
+<item id="Khayen" href="images/Khayen.png" media-type="image/png"/>
+<item id="Laal" href="images/Laal.png" media-type="image/png"/>
+<item id="moonch" href="images/moonch.jpg" media-type="image/jpg"/>
+<item id="moonch" href="images/moonch.png" media-type="image/png"/>
+<item id="Neeche" href="images/Neeche.png" media-type="image/png"/>
+<item id="ojha" href="images/ojha.jpg" media-type="image/jpg"/>
+<item id="ojha" href="images/ojha.png" media-type="image/png"/>
+<item id="Ojha1" href="images/Ojha1.png" media-type="image/png"/>
+<item id="ojha7_2" href="images/ojha7_2.png" media-type="image/png"/>
+<item id="panchi7_1" href="images/panchi7_1.png" media-type="image/png"/>
+<item id="Patla" href="images/Patla.png" media-type="image/png"/>
+<item id="ped7_1" href="images/ped7_1.png" media-type="image/png"/>
+<item id="peechhe" href="images/peechhe.png" media-type="image/png"/>
+<item id="poonch" href="images/poonch.jpg" media-type="image/jpg"/>
+<item id="poonch" href="images/poonch.png" media-type="image/png"/>
+<item id="poora" href="images/poora.png" media-type="image/png"/>
+<item id="raja" href="images/raja.jpg" media-type="image/jpg"/>
+<item id="raja" href="images/raja.png" media-type="image/png"/>
+<item id="raja7_1" href="images/raja7_1.png" media-type="image/png"/>
+<item id="raja7_2" href="images/raja7_2.png" media-type="image/png"/>
+<item id="rani" href="images/rani.jpg" media-type="image/jpg"/>
+<item id="rani" href="images/rani.png" media-type="image/png"/>
+<item id="Rani1" href="images/Rani1.png" media-type="image/png"/>
+<item id="rani7_1" href="images/rani7_1.png" media-type="image/png"/>
+<item id="Rota" href="images/Rota.png" media-type="image/png"/>
+<item id="s1" href="images/s1.png" media-type="image/png"/>
+<item id="s2" href="images/s2.png" media-type="image/png"/>
+<item id="s3" href="images/s3.png" media-type="image/png"/>
+<item id="seq1" href="images/seq1.png" media-type="image/png"/>
+<item id="seq2" href="images/seq2.png" media-type="image/png"/>
+<item id="seq3" href="images/seq3.png" media-type="image/png"/>
+<item id="seq4" href="images/seq4.png" media-type="image/png"/>
+<item id="seq5" href="images/seq5.png" media-type="image/png"/>
+<item id="seq6" href="images/seq6.png" media-type="image/png"/>
+<item id="seq7" href="images/seq7.png" media-type="image/png"/>
+<item id="seq8" href="images/seq8.png" media-type="image/png"/>
+<item id="Sota" href="images/Sota.png" media-type="image/png"/>
+<item id="sparkle1" href="images/sparkle1.gif" media-type="image/gif"/>
+<item id="Tab" href="images/Tab.png" media-type="image/png"/>
+
+
+<item id="narrat3" href="audio/1.mp3" media-type="audio/mp3"/> 
+<!--<item id="narrat4" href="audio/p4.mp3" media-type="audio/mp3"/> 
+<item id="narrat5" href="audio/p5.mp3" media-type="audio/mp3"/> 
+<item id="narrat6" href="audio/p6.mp3" media-type="audio/mp3"/> 
+<item id="narrat7" href="audio/p7.mp3" media-type="audio/mp3"/> 
+<item id="narrat8" href="audio/p8.mp3" media-type="audio/mp3"/> 
+<item id="narrat9" href="audio/p9.mp3" media-type="audio/mp3"/> 
+<item id="narrat10" href="audio/p10.mp3" media-type="audio/mp3"/>
+<item id="narrat11" href="audio/p11.mp3" media-type="audio/mp3"/>
+<item id="narrat12" href="audio/p12.mp3" media-type="audio/mp3"/>
+<item id="narrat13" href="audio/p13.mp3" media-type="audio/mp3"/>
+<item id="narrat14" href="audio/p14.mp3" media-type="audio/mp3"/>
+<item id="narrat15" href="audio/p15.mp3" media-type="audio/mp3"/>
+<item id="narrat16" href="audio/p16.mp3" media-type="audio/mp3"/>
+<item id="narrat17" href="audio/p17.mp3" media-type="audio/mp3"/>
+<item id="narrat18" href="audio/p18.mp3" media-type="audio/mp3"/>-->
+<!--<item id="narrat1" href="audio/B.mp3" media-type="audio/mp3"/>
+<item id="narrat2" href="audio/C.mp3" media-type="audio/mp3"/>
+<item id="narrat3" href="audio/D.mp3" media-type="audio/mp3"/>
+<item id="narrat4" href="audio/E.mp3" media-type="audio/mp3"/>
+<item id="narrat5" href="audio/F.mp3" media-type="audio/mp3"/>
+<item id="narrat6" href="audio/i.mp3" media-type="audio/mp3"/>
+<item id="narrat7" href="audio/k.mp3" media-type="audio/mp3"/>-->
+<item id="mop3" href="smil/1.smil" media-type="application/smil+xml"/> 
+<!--<item id="mop4" href="smil/p4.smil" media-type="application/smil+xml"/> 
+<item id="mop5" href="smil/p5.smil" media-type="application/smil+xml"/> 
+<item id="mop6" href="smil/p6.smil" media-type="application/smil+xml"/> 
+<item id="mop7" href="smil/p7.smil" media-type="application/smil+xml"/> 
+<item id="mop8" href="smil/p8.smil" media-type="application/smil+xml"/> 
+<item id="mop9" href="smil/p9.smil" media-type="application/smil+xml"/> 
+<item id="mop10" href="smil/p10.smil" media-type="application/smil+xml"/>
+<item id="mop11" href="smil/p11.smil" media-type="application/smil+xml"/>
+<item id="mop12" href="smil/p12.smil" media-type="application/smil+xml"/>
+<item id="mop13" href="smil/p13.smil" media-type="application/smil+xml"/>
+<item id="mop14" href="smil/p14.smil" media-type="application/smil+xml"/>
+<item id="mop15" href="smil/p15.smil" media-type="application/smil+xml"/>
+<item id="mop16" href="smil/p16.smil" media-type="application/smil+xml"/>
+<item id="mop17" href="smil/p17.smil" media-type="application/smil+xml"/>
+<item id="mop18" href="smil/p18.smil" media-type="application/smil+xml"/>-->
+
+
+<item xmlns="http://www.idpf.org/2007/opf" id="f1" href="fonts/K010.ttf" media-type="font/ttf"/>
+<item xmlns="http://www.idpf.org/2007/opf" id="f2" href="fonts/k040t.ttf" media-type="font/ttf"/>
+<item xmlns="http://www.idpf.org/2007/opf" id="f3" href="fonts/BOOKOS.ttf" media-type="font/ttf"/>
+<item xmlns="http://www.idpf.org/2007/opf" id="f4" href="fonts/k020b.ttf" media-type="font/ttf"/>
+</manifest>
+
+   <spine xmlns="http://www.idpf.org/2007/opf" toc="ncxtoc">
+   <itemref idref="frontcover" />
+     <itemref idref="pg02" />
+	 <itemref idref="pg03" />
+     <itemref idref="pg04" />
+	 <itemref idref="pg05" />
+	 <itemref idref="pg06" />
+	 <itemref idref="pg07" />
+	 <itemref idref="pg08" />
+	 <itemref idref="pg09" />
+	 <itemref idref="pg10" />
+	 <itemref idref="pg11" />
+	 <itemref idref="pg12" />
+	 <itemref idref="pg13" />
+	 <itemref idref="pg14" />
+	 <itemref idref="pg15" />
+	 <itemref idref="pg16" />
+	 <itemref idref="pg17" />
+	 <itemref idref="pg18" />
+	 <itemref idref="pg19" />
+<!--	 <itemref idref="pg19a" />
+	 <itemref idref="pg19b" />
+	 <itemref idref="pg19c" />
+	 <itemref idref="pg20" />
+	 <itemref idref="pg20a" />
+	 <itemref idref="pg20b" />
+	 <itemref idref="pg20c" />
+	 <itemref idref="pg21" />
+	 <itemref idref="pg22" />-->
+	 <itemref idref="pg23" />
+</spine>
+<guide >
+<reference href="01_frontcover.html" type="title" title="title"/>
+<!--<reference href="35_backcover.xhtml" type="toc" title="Table of Contents"/>-->
+</guide>
+</package>
